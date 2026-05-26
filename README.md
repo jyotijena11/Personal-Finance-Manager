@@ -119,4 +119,10 @@ npm run build    # create production build
 npm run preview  # preview the production build locally
 ```
 
+## Author
+JP Jena  
+GitHub: https://github.com/jyotijena11
+Netlify: https://personalfinancemanager6.netlify.app/
+```
+---
 
