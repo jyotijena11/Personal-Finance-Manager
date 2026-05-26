@@ -108,7 +108,3 @@ cd personal-finance-manager
 Simply open `index.html` in your browser.
 
 ---
-
-## Author
-
-Developed by Hardik Bhai
