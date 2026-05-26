@@ -89,22 +89,21 @@ Responsible for:
 
 ---
 
-## Installation & Setup
+## Installation and Setup:
+1. Clone the repository:
+git clone https://github.com/jyotijena11/Personal-Finance-Manager.git
+2. Move into the project folder:
+cd Personal-Finance-Manager
+3. Install dependencies:
+npm install
+4. Start the development server:
+npm run dev
+5. Build for production:
+npm run build
+6. Preview production build:
+npm run preview:
+Available Scripts:
+npm run dev      # start local development server
+npm run build    # create production build
+npm run preview  # preview the production build locally
 
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/personal-finance-manager.git
-```
-
-### Step 2: Open Project Folder
-
-```bash
-cd personal-finance-manager
-```
-
-### Step 3: Run the Project
-
-Simply open `index.html` in your browser.
-
----
